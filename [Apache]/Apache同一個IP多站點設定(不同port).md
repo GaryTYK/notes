@@ -44,7 +44,7 @@
 
   - 啟動網站的設定檔
     ```
-    ssudo a2ensite [file name]
+    sudo a2ensite [file name]
     ```
   - 重開 Apache
     ```
