@@ -1,6 +1,6 @@
 # Apache 同一個 IP 多站點設定(不同 port)
 
-- 在 AWS Ec2 下 ssh Server
+- 在 Winscp 下 ssh Server
 
   - ![image info](../public/image/[Apache]/winscp-login.PNG)
   - open putty
