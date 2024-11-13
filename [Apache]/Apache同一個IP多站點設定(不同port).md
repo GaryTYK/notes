@@ -21,6 +21,9 @@
     cp [...file/directory-sources] [destination]
     ```
   - 修改<VirtualHost \*:[port]>, DocumentRoot [path], <Directory [path]>
+    ```
+    nano [file]
+    ```
 
     ```
     <VirtualHost *:[port]>
